@@ -7,14 +7,14 @@ sentiments using Natural Language Processing (NLP) techniques and EDA.
 The analysis can be useful for applications like social media monitoring, 
 customer feedback analysis, or any context requiring sentiment insights.
 
-Features
+Features:
 Preprocessing textual data (e.g., tokenization, stopword removal, and stemming/lemmatization).
 Building a machine learning model for sentiment classification.
 Visualizing results using graphs and charts.
 Supporting reproducibility with a Jupyter notebook.
 
 
-Requirements
+Requirements:
 Python: Version 3.7 or later.
 Libraries:
 pandas: For data manipulation.
